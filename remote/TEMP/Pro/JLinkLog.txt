@@ -1,0 +1,27 @@
+
+T2D680 000:307 SEGGER J-Link V4.91b (beta) Log File (0000ms, 0272ms total)
+T2D680 000:307 DLL Compiled: Sep 15 2014 09:17:56 (0000ms, 0272ms total)
+T2D680 000:307 Logging started @ 2019-04-24 10:41 (0000ms, 0272ms total)
+T2D680 000:307 JLINK_SetWarnOutHandler(...) (0000ms, 0272ms total)
+T2D680 000:307 JLINK_OpenEx(...)
+Firmware: J-Link V9 compiled Jun  2 2222 22:22:22
+Hardware: V9.40
+S/N: 59401308
+Feature(s): GDB, RDI, FlashBP, FlashDL, JFlash, RDDI  returns O.K. (0269ms, 0541ms total)
+T2D680 000:576 JLINK_SetErrorOutHandler(...) (0000ms, 0541ms total)
+T2D680 000:576 JLINK_ExecCommand("ProjectFile = "D:\KJ7541\STM32\DESIGN\FCS\TEMP\Pro\JLinkSettings.ini"", ...)  returns 0x00 (0000ms, 0541ms total)
+T2D680 000:581 JLINK_ExecCommand("Device = STM32F103VC", ...)Device "STM32F103VC" selected (256 KB flash, 48 KB RAM).  returns 0x00 (0004ms, 0546ms total)
+T2D680 000:586 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0546ms total)
+T2D680 000:586 JLINK_GetHardwareVersion()  returns 0x16F30 (0000ms, 0546ms total)
+T2D680 000:586 JLINK_GetDLLVersion()  returns 49102 (0000ms, 0546ms total)
+T2D680 000:586 JLINK_GetFirmwareString(...) (0000ms, 0546ms total)
+T2D680 000:597 JLINK_GetDLLVersion()  returns 49102 (0000ms, 0546ms total)
+T2D680 000:597 JLINK_GetCompileDateTime() (0000ms, 0546ms total)
+T2D680 000:599 JLINK_GetFirmwareString(...) (0000ms, 0546ms total)
+T2D680 000:600 JLINK_GetHardwareVersion()  returns 0x16F30 (0001ms, 0547ms total)
+T2D680 000:609 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0001ms, 0548ms total)
+T2D680 000:610 JLINK_SetSpeed(2000) (0001ms, 0549ms total)
+T2D680 000:611 JLINK_GetId()  returns 0x00000000 (0001ms, 0550ms total)
+T2D680 001:992 JLINK_Close() (0000ms, 0550ms total)
+T2D680 001:992  (0000ms, 0550ms total)
+T2D680 001:992 Closed (0000ms, 0550ms total)
